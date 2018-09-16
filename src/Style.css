@@ -1,0 +1,56 @@
+table {
+  width: 100%;
+}
+
+table tbody tr td {
+  /* border: 1px solid black; */
+}
+
+table tbody tr td.latter-head {
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+table tbody tr td.border {
+  border-bottom: 1px solid black;
+}
+table tbody tr .border-1 {
+  border-top: 3px solid black;
+}
+
+table tbody tr .prihal {
+  text-align: center;
+}
+table tbody tr .prihal b {
+  border-bottom: 1px solid black;
+  font-size: 12px;
+}
+table tbody tr .no-surat {
+  padding: 0px;
+  border-spacing: 0px;
+  text-align: center;
+  font-size: 12px;
+}
+
+table tbody tr .kalimat-pembuka {
+  margin-top: 10px;
+  font-size: 12px;
+  text-align: justify;
+}
+
+table tbody tr .kalimat-penutup {
+  margin-top: 10px;
+  font-size: 12px;
+  text-align: justify;
+}
+
+table tbody tr .isi-surat {
+  margin-top: 10px;
+  font-size: 12px;
+  text-align: justify;
+}
+
+table tbody .paraf td {
+  font-size: 12px;
+}
